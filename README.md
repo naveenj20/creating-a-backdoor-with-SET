@@ -76,7 +76,17 @@ sudo setoolkit
 /var/www/html/
 ```
 
+## OUTPUT:
 
+<img width="1920" height="1200" alt="Screenshot (160)" src="https://github.com/user-attachments/assets/23856900-db3a-48ae-81ab-134bae688535" />
+
+<img width="1920" height="1200" alt="Screenshot (161)" src="https://github.com/user-attachments/assets/a002db36-6d30-4321-8ee5-bfba071f608b" />
+
+<img width="1920" height="1200" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/0a661137-31f9-4b05-adeb-094d8cc21f5e" />
+
+<img width="1920" height="1200" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/61fcaffc-2947-46fe-9b42-47a8a28da4af" />
+
+<img width="1920" height="1200" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/666e43c5-0e79-4921-91ab-16659ebf2645" />
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
